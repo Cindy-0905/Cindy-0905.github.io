@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Nos offres de voyage</title>
+  <link href="feuilledestyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Découvrez notre incroyable voyage en Egypte!</h1>
+  <p>  Vous pouvez decouvrir l'une des 7 merveilles du monde, la magnifique pyramide de Gizeh!</p>
+</body>
+
+</html>
