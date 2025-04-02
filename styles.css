@@ -1,42 +1,72 @@
-/* Styles for Parcoursup theme */
+/* Styles pour un thème de voyage */
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
+  background-color: #f0f9ff; /* Un bleu très clair pour un effet aérien */
+  color: #333; /* Texte en gris foncé pour le contraste */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 h1 {
-  color: #333;
+  color: #1a73e8; /* Un bleu vif pour les titres */
+  font-family: 'Pacifico', sans-serif; /* Police cursive pour un look voyage */
+  text-align: center;
+  padding: 20px;
 }
 
 ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', Arial, sans-serif;
 }
 
 li {
-  padding: 5px 0;
+  padding: 10px 0;
+  font-size: 1.1em;
 }
 
 form {
-  margin-top: 20px;
+  margin-top: 30px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 label {
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #1a73e8; /* Bleu doux pour les labels */
 }
 
 input[type="text"],
 input[type="email"] {
-  width: 200px;
-  padding: 5px;
-  margin-bottom: 10px;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1em;
 }
 
 input[type="submit"] {
-  padding: 5px 10px;
-  background-color: #58a0d3;
+  padding: 10px 20px;
+  background-color: #1a73e8; /* Un bleu vif pour le bouton */
   color: white;
   border: none;
+  border-radius: 5px;
   cursor: pointer;
+  font-size: 1.1em;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #135ba3; /* Un bleu plus foncé au survol */
 }
