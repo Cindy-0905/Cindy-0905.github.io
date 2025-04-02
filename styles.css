@@ -1,64 +1,53 @@
-/* Styles pour un thème de voyage */
+/* Styles pour le thème voyage - Modifications légères */
 
 body {
-  font-family: 'Open Sans', Arial, sans-serif;
-  background-color: #f0f9ff; /* Un bleu très clair pour un effet aérien */
-  color: #333; /* Texte en gris foncé pour le contraste */
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  font-family: 'Open Sans', Arial, sans-serif; /* Police simple et moderne */
+  background-color: #f7fbff; /* Un bleu clair pour rappeler le ciel */
+  color: #333; /* Texte en gris foncé pour un bon contraste */
 }
 
 h1 {
-  color: #1a73e8; /* Un bleu vif pour les titres */
-  font-family: 'Pacifico', sans-serif; /* Police cursive pour un look voyage */
+  color: #1a73e8; /* Un bleu doux pour le titre */
+  font-family: 'Pacifico', sans-serif; /* Police cursive pour un effet voyage */
   text-align: center;
-  padding: 20px;
 }
 
 ul {
   list-style-type: none;
   padding: 0;
-  margin: 0;
-  font-family: 'Open Sans', Arial, sans-serif;
 }
 
 li {
-  padding: 10px 0;
-  font-size: 1.1em;
+  padding: 5px 0;
 }
 
 form {
-  margin-top: 30px;
+  margin-top: 20px;
   background-color: white;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 300px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 label {
   display: block;
-  margin-bottom: 8px;
-  font-weight: bold;
-  color: #1a73e8; /* Bleu doux pour les labels */
+  margin-bottom: 5px;
+  color: #1a73e8; /* Un bleu doux pour les labels */
 }
 
 input[type="text"],
 input[type="email"] {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 15px;
+  width: 100%; /* Prend toute la largeur de l'élément parent */
+  padding: 8px;
+  margin-bottom: 10px;
   border: 1px solid #ddd;
   border-radius: 5px;
   font-size: 1em;
 }
 
 input[type="submit"] {
-  padding: 10px 20px;
-  background-color: #1a73e8; /* Un bleu vif pour le bouton */
+  padding: 8px 16px;
+  background-color: #1a73e8; /* Bleu vif pour le bouton */
   color: white;
   border: none;
   border-radius: 5px;
