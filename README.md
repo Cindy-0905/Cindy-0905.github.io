@@ -16,4 +16,12 @@ Le site doit comporter plusieurs pages, des liens entre elles, du contenu textue
 - D’autres pages : bons plans, tarifs, contact…
 - Une feuille de style CSS `feuilledestyle.css`
 
+## 🚀 Mise en ligne
+
+🔗 Accédez au site ici : [https://Cindy-0905.github.io](https://Cindy-0905.github.io)
+
+---
+
+*Merci de visiter notre agence fictive, et bon voyage !* 🌍❤️
+
 
