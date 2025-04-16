@@ -14,7 +14,7 @@ Le site doit comporter plusieurs pages, des liens entre elles, du contenu textue
 - Une page `egypte.html` avec plus de détails sur l'Égypte
 - Une page `tunisie.html` pour présenter cette destination
 - D’autres pages : bons plans, tarifs, contact…
-- Une feuille de style CSS `feuilledestyle.css`
+- Une feuille de style CSS `style.css`
 
 ## 🚀 Mise en ligne
 
