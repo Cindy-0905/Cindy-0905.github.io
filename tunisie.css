@@ -60,8 +60,9 @@ nav a:hover {
 h1 {
   font-family: 'Playfair Display', serif;
   font-size: 46px;
-  color: #f1faee; /* BLANC pour ressortir sur rouge */
-  margin-top: 10px;
+  color: #ffffff; 
+  margin-top: 20px;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
 }
 
 h1::after {
