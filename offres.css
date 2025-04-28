@@ -1,0 +1,107 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to bottom right, #ffe29a, #ffa751);
+  color: #4b3832;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+
+header {
+  background: #ffb347;
+  padding: 20px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  height: 60px;
+}
+
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding: 0;
+  margin-top: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 8px 15px;
+  transition: background-color 0.3s;
+}
+
+nav a:hover {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+}
+
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  color: #d35400;
+  margin-top: 30px;
+}
+
+h1::after {
+  content: " 🌍✈️";
+}
+
+p {
+  font-size: 22px;
+  margin: 20px;
+  color: #6b4226;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 20px 0;
+}
+
+li a {
+  font-size: 24px;
+  color: #ff7f50;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+li a:hover {
+  color: #ff4500;
+}
+
+
+footer {
+  background-color: #f4a261;
+  color: #fff;
+  padding: 30px 10px;
+  margin-top: 50px;
+  font-size: 14px;
+}
+
+footer .mentions {
+  margin-top: 10px;
+}
+
+footer .mentions a {
+  color: #ffe29a;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+footer .mentions a:hover {
+  text-decoration: underline;
+}
