@@ -9,7 +9,17 @@ body {
   background-attachment: fixed;
 }
 
-/* --- HEADER --- */
+img {
+  width: 80%;
+  max-width: 500px;
+  height: auto;
+  margin: 20px auto;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
 header {
   background: #e63946; /* rouge tunisien */
   padding: 20px 0;
