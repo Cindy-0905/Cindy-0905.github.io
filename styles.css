@@ -138,7 +138,7 @@ footer {
   color: white;
   text-align: center;
   padding: 20px;
-  font-size: 14px;
+  font-size: 8px;
   margin-top: 60px;
 }
 
@@ -179,7 +179,7 @@ footer .legal a:hover {
 
 footer .legal {
   margin-top: 10px;
-  font-size: 12px;
+  font-size: 8px;
 }
 
 footer .legal a {
