@@ -102,6 +102,28 @@ footer .mentions a {
 }
 
 footer .mentions a:hover {
+
+  .header-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.header-img {
+  width: 120px;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo-img {
+  width: 100px;
+  height: auto;
+}
+
   text-decoration: underline;
   color: #caf0f8;
 }
