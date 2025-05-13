@@ -1,0 +1,49 @@
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f8f9fa;
+  color: #2c2c2c;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #00247d; /* Bleu du drapeau britannique */
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+section {
+  padding: 2rem;
+}
+
+h2 {
+  color: #cf142b; /* Rouge du drapeau britannique */
+  margin-top: 2rem;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 1rem;
+}
+
+footer {
+  background-color: #00247d;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
