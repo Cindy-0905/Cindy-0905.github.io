@@ -16,7 +16,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #ffffff; /
+    background-color: #ffffff; /* Blanc pour le fond de la section */
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -24,7 +24,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background-color: #2196f3; 
+    background-color: #2196f3; /* Bleu vif pour l'en-tête */
     color: white;
     border-radius: 8px 8px 0 0;
 }
@@ -32,7 +32,7 @@ header {
 h1 {
     font-size: 2.5em;
     font-weight: 600;
-    color: #0d47a1; 
+    color: #0d47a1; /* Bleu foncé pour le titre */
 }
 
 .sources {
@@ -42,7 +42,7 @@ h1 {
 .sources h2 {
     font-size: 1.8em;
     margin-bottom: 10px;
-    color: #1e3a8a; 
+    color: #1e3a8a; /* Bleu foncé pour les sous-titres */
 }
 
 ul {
@@ -55,18 +55,18 @@ ul li {
 
 ul li a {
     text-decoration: none;
-    color: #1976d2; 
+    color: #1976d2; /* Bleu moyen pour les liens */
     font-size: 1.2em;
     padding: 10px;
-    border: 1px solid #90caf9; 
+    border: 1px solid #90caf9; /* Bordure bleu clair */
     border-radius: 5px;
     transition: all 0.3s ease;
 }
 
 ul li a:hover {
-    background-color: #64b5f6; 
+    background-color: #64b5f6; /* Bleu clair au survol */
     color: white;
-    border-color: #1e3a8a; 
+    border-color: #1e3a8a; /* Bordure bleu foncé au survol */
 }
 
 /* Footer */
@@ -74,7 +74,7 @@ footer {
     text-align: center;
     margin-top: 30px;
     font-size: 1.2em;
-    color: #0d47a1; 
+    color: #0d47a1; /* Bleu foncé pour le footer */
 }
 
 section {
