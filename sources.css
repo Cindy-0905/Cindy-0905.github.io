@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #e3f2fd; 
-    color: #1e3a8a; 
+    background-color: #e3f2fd; /* Bleu clair */
+    color: #1e3a8a; /* Bleu foncé pour le texte */
     line-height: 1.6;
     padding: 20px;
 }
