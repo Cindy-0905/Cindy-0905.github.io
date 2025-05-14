@@ -1,1 +1,82 @@
+/* conf.css */
+
+/* Mise en forme générale de la page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;  /* Fond très clair pour une ambiance aérée */
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Titre principal */
+h2 {
+  text-align: center;
+  color: #007bff;  /* Bleu vif pour le titre */
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+/* Section Mentions légales */
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ffffff;  /* Fond blanc pour les sections */
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+section p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+section p strong {
+  color: #007bff;  /* Bleu pour les titres des paragraphes */
+  font-weight: bold;
+}
+
+section p u {
+  text-decoration: underline;
+  color: #f39c12;  /* Jaune doré pour les mots soulignés */
+}
+
+/* Ligne de séparation */
+hr {
+  border: 1px solid #007bff;  /* Bleu clair pour la ligne de séparation */
+  margin: 20px auto;
+  width: 80%;
+}
+
+/* Style du pied de page */
+footer {
+  background-color: #007bff;  /* Bleu vif pour le pied de page */
+  color: #fff;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  font-size: 1em;
+  margin: 0;
+}
+
+/* Responsivité pour les petits écrans */
+@media (max-width: 600px) {
+  h2 {
+    font-size: 1.5em;
+  }
+
+  section {
+    padding: 15px;
+  }
+
+  footer p {
+    font-size: 0.9em;
+  }
+}
 
