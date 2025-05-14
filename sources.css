@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #e0f7fa; /* Bleu clair */
+    background-color: #e0f7fa; 
     color: #333;
     line-height: 1.6;
     margin: 0;
@@ -25,7 +25,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background-color: #ff7043; /* Orange */
+    background-color: #ff7043; 
     color: white;
     border-radius: 8px 8px 0 0;
 }
@@ -33,7 +33,7 @@ header {
 h1 {
     font-size: 2.5em;
     font-weight: 600;
-    color: #00796b; /* Couleur verte */
+    color: #00796b;
 }
 
 .sources {
@@ -56,7 +56,7 @@ ul li {
 
 ul li a {
     text-decoration: none;
-    color: #00796b; /* Couleur de base du lien */
+    color: #00796b; 
     font-size: 1.2em;
     padding: 10px;
     border: 1px solid #ccc;
@@ -65,9 +65,9 @@ ul li a {
 }
 
 ul li a:hover {
-    background-color: #26a69a; /* Couleur de fond au survol */
+    background-color: #26a69a; 
     color: white;
-    border-color: #00796b; /* Bordure verte */
+    border-color: #00796b; 
 }
 
 /* Footer */
@@ -75,7 +75,7 @@ footer {
     text-align: center;
     margin-top: 30px;
     font-size: 1.2em;
-    color: #f57c00; /* Orange foncé */
+    color: #f57c00; 
 }
 
 section {
