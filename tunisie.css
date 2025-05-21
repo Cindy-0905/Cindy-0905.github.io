@@ -71,14 +71,14 @@ h1::after {
 
 h2 {
   font-size: 32px;
-  color: #1d3557;
+  color: #FFFFFF;
   margin-top: 20px;
 }
 
 p {
   font-size: 22px;
   margin: 20px;
-  color: #457b9d;
+  color: #FFFFFF;
 }
 
 /* --- LISTES --- */
@@ -93,7 +93,7 @@ li {
 
 li a {
   font-size: 24px;
-  color: #e76f51;
+  color: ##FFFFFF;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
