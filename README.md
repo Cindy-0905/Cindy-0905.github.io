@@ -1,26 +1,45 @@
 # Cindy-0905.github.io
 
-## 💡 Objectif du projet
+## ✨ Objectifs du Projet
 
-Créer un site web pour une **agence de voyage fictive** appelée *AirCinora*.  
-Le site doit comporter plusieurs pages, des liens entre elles, du contenu textuel, des images, et du style en CSS.
+- Appliquer les compétences acquises en **HTML** et **CSS**.
+- Créer un **site web statique** présentant plusieurs destinations touristiques.
+- Organiser le contenu de manière claire et attrayante pour l'utilisateur.
 
----
+## 🗺️ Destinations Présentées
 
-## 🧱 Ce que contient notre site
+Le site propose des informations sur les pays suivants :
 
-- Une page d’accueil `index.html`
-- Une page “offres de voyage” `offres.html` avec un menu de destinations
-- Une page `egypte.html` avec plus de détails sur l'Égypte
-- Une page `tunisie.html` pour présenter cette destination
-- D’autres pages : bons plans, tarifs, contact…
-- Une feuille de style CSS `style.css`
+- 🇫🇷 France  
+- 🇪🇬 Égypte  
+- 🇬🇧 Angleterre  
+- 🇰🇷 Corée  
+- 🇮🇹 Italie  
+- 🇹🇳 Tunisie
 
-## 🚀 Mise en ligne
+Chaque page contient des descriptions, des images et des informations utiles pour les voyageurs.
 
-🔗 Accédez au site ici : [https://Cindy-0905.github.io](https://Cindy-0905.github.io)
+## 🛠️ Technologies Utilisées
 
----
+- **HTML5** : pour la structure des pages.  
+- **CSS3** : pour le style et la mise en page.  
+- **GitHub Pages** : pour l'hébergement du site.
+
+## 📁 Structure du Projet
+
+- `index.html` : page d'accueil du site  
+- `france.html`, `egypte.html`, etc. : pages dédiées à chaque pays  
+- `styles.css`, `france.css`, etc. : fichiers CSS pour le style global et spécifique  
+- `mentions.html` : mentions légales  
+- `sources.html` : sources des informations et des images utilisées
+
+## 🚀 Lien vers le Site
+
+👉 [Consultez notre site ici](https://cindy-0905.github.io/Cindy-0905.github.io/)
+
+## 📸 Aperçu
+
+*Ajoutez ici une capture d'écran du site, par exemple :*
 
 *Merci de visiter notre agence fictive, et bon voyage !* 🌍❤️
 
